@@ -1,4 +1,4 @@
-# -Belajar-Machine-Learning-for-Beginers
+# -Machine-Learning-for-Beginers
 Final Project Algorithm Convolutional Neural Network (CNN)
 Content:
 
